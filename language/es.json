@@ -5,23 +5,23 @@
     },
     "plugins": {
         "_antiarab": {
-            "texto1": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +212. Por lo tanto, serás eliminado del grupo.*",
-            "texto2": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +265. Por lo tanto, serás eliminado del grupo.*",
-            "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
+            "texto1": "_* ANTI-ÁRABES *_\n\n*[❗] 𝑬𝒏 𝑬𝒔𝒕𝒆 𝑮𝒓𝒖𝒑𝒐 𝑵𝒐 𝑺𝒆 𝑷𝒆𝒓𝒎𝒊𝒕𝒆𝒏 𝑵𝒖𝒎𝒆𝒓𝒐𝒔 𝒒𝒖𝒆 𝑪𝒐𝒎𝒊𝒆𝒏𝒄𝒆𝒏 𝑪𝒐𝒏 +212. 𝑷𝒐𝒓 𝑳𝒐 𝑻𝒂𝒏𝒕𝒐 𝑺𝒆𝒓𝒂𝒔 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒅𝒐.*",
+            "texto2": "_* ANTI-ÁRABES *_\n\n*[❗] 𝑬𝒏 𝑬𝒔𝒕𝒆 𝑮𝒓𝒖𝒑𝒐 𝑵𝒐 𝑺𝒆 𝑷𝒆𝒓𝒎𝒊𝒕𝒆𝒏 𝑵𝒖𝒎𝒆𝒓𝒐𝒔 𝒒𝒖𝒆 𝑪𝒐𝒎𝒊𝒆𝒏𝒄𝒆𝒏 𝑪𝒐𝒏 +265. 𝑷𝒐𝒓 𝑳𝒐 𝑻𝒂𝒏𝒕𝒐 𝑺𝒆𝒓𝒂𝒔 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒅𝒐.*",
+            "texto3": "_* ANTI-ÁRABES *_\n\n*[❗] 𝑬𝒏 𝑬𝒔𝒕𝒆 𝑮𝒓𝒖𝒑𝒐 𝑵𝒐 𝑺𝒆 𝑷𝒆𝒓𝒎𝒊𝒕𝒆𝒏 𝑵𝒖𝒎𝒆𝒓𝒐𝒔 𝒒𝒖𝒆 𝑪𝒐𝒎𝒊𝒆𝒏𝒄𝒆𝒏 𝑪𝒐𝒏 +92. 𝑷𝒐𝒓 𝑳𝒐 𝑻𝒂𝒏𝒕𝒐 𝑺𝒆𝒓𝒂𝒔 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒅𝒐.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] El antilink está habilitado, pero el participante que envió el enlace es un administrador.*",
-            "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
-            "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
-            "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
+            "texto1": "* ANTI-LINK *_\n\n*[❗] 𝑬𝒍 𝑨𝒏𝒕𝒊-𝒍𝒊𝒏𝒌 𝑬𝒔𝒕𝒂 𝑯𝒂𝒃𝒊𝒍𝒊𝒕𝒂𝒅𝒐, 𝑷𝒆𝒓𝒐 𝑬𝒓𝒆𝒔 𝑨𝒅𝒎𝒊𝒏!!*",
+            "texto2": "_* ANTI-LINK *_\n\n*[❗] @user 𝑰𝒏𝒄𝒖𝒎𝒑𝒍𝒊𝒔𝒕𝒆 𝑳𝒂𝒔 𝑹𝒆𝒈𝒍𝒂𝒔 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐, 𝑺𝒆𝒓𝒂𝒔 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒅𝒐.*",
+            "texto3": "_* ANTI-LINK *_\n\n*[❗] 𝑷𝒂𝒓𝒂 𝑸𝒖𝒆 𝑬𝒍 𝑨𝒏𝒕𝒊-𝒍𝒊𝒏𝒌 𝑭𝒖𝒏𝒄𝒊𝒐𝒏𝒆 𝑨𝒅𝒆𝒄𝒖𝒂𝒅𝒂𝒎𝒆𝒏𝒕𝒆 𝑬𝒔 𝑵𝒆𝒄𝒆𝒔𝒂𝒓𝒊𝒐 𝑸𝒖𝒆 𝑬𝒍 𝑩𝒐𝒕 𝑺𝒆𝒂 𝑨𝒅𝒎𝒊𝒏.*",
+            "texto4": "_* ANTI-LINK *_\n\n*[❗] 𝑬𝒍 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 𝑫𝒆𝒍 𝑩𝒐𝒕 𝑻𝒊𝒆𝒏𝒆 𝑫𝒆𝒔𝒉𝒂𝒃𝒊𝒊𝒕𝒂𝒅𝒂𝒔 𝑳𝒂𝒔 𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒄𝒊𝒐𝒏𝒆𝒔 _𝑬𝒏𝒂𝒃𝒍𝒆 𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒕_ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒆 𝑪𝒐𝒏 𝑬𝒍 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑷𝒂𝒓𝒂 𝑸𝒖𝒆 𝑯𝒂𝒃𝒊𝒍𝒊𝒕𝒆 𝑳𝒂 𝑭𝒖𝒏𝒄𝒊𝒐𝒏.*"
         },
         "_antilink2": {
-            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
-            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
+            "texto1": "_* ANTI-LINK 2 *_\n\n*[❗] @user 𝑰𝒏𝒄𝒖𝒎𝒑𝒍𝒊𝒔𝒕𝒆 𝑳𝒂𝒔 𝑹𝒆𝒈𝒍𝒂𝒔 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐, 𝑺𝒆𝒓𝒂𝒔 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒅𝒐.*",
+            "texto2": "_* ANTI-LINK 2 *_\n\n*[❗] 𝑷𝒂𝒓𝒂 𝑸𝒖𝒆 𝑬𝒍 𝑨𝒏𝒕𝒊-𝒍𝒊𝒏𝒌 𝑭𝒖𝒏𝒄𝒊𝒐𝒏𝒆 𝑨𝒅𝒆𝒄𝒖𝒂𝒅𝒂𝒎𝒆𝒏𝒕𝒆 𝑬𝒔 𝑵𝒆𝒄𝒆𝒔𝒂𝒓𝒊𝒐 𝑸𝒖𝒆 𝑬𝒍 𝑩𝒐𝒕 𝑺𝒆𝒂 𝑨𝒅𝒎𝒊𝒏.*",
+            "texto3": "_* ANTI-LINK 2 *_\n\n*[❗] 𝑬𝒍 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 𝑫𝒆𝒍 𝑩𝒐𝒕 𝑻𝒊𝒆𝒏𝒆 𝑫𝒆𝒔𝒉𝒂𝒃𝒊𝒊𝒕𝒂𝒅𝒂𝒔 𝑳𝒂𝒔 𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒄𝒊𝒐𝒏𝒆𝒔 _𝑬𝒏𝒂𝒃𝒍𝒆 𝑹𝒆𝒔𝒕𝒓𝒊𝒄𝒕_ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒆 𝑪𝒐𝒏 𝑬𝒍 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑷𝒂𝒓𝒂 𝑸𝒖𝒆 𝑯𝒂𝒃𝒊𝒍𝒊𝒕𝒆 𝑳𝒂 𝑭𝒖𝒏𝒄𝒊𝒐𝒏.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
+            "texto1": "_* ANTI-PRIVADO *_\n\n*[❗] 𝑳𝒂 𝑭𝒖𝒏𝒄𝒊𝒐𝒏 𝑨𝒏𝒕𝒊-𝒑𝒓𝒊𝒗𝒂𝒅𝒐 𝑬𝒔𝒕𝒂 𝑯𝒂𝒃𝒊𝒍𝒊𝒕𝒂𝒅𝒂 𝑷𝒐𝒓 𝑳𝒐 𝑻𝒂𝒏𝒕𝒐 𝑺𝒆𝒓𝒂𝒔 𝑩𝒍𝒐𝒒𝒖𝒆𝒂𝒅𝒐.*"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
