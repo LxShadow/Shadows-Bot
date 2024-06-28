@@ -108,7 +108,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `MysticSession`;
+global.authFile = `Shadows Bot`;
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile);
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const msgRetryCounterCache = new NodeCache()
@@ -129,7 +129,7 @@ opcion = '1'
 if (!methodCodeQR && !methodCode && !fs.existsSync(`./${authFile}/creds.json`)) {
 do {
 let lineM = '⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ 》'
-opcion = await question('[ ℹ️ ] Seleccione una opción:\n1. Con código QR\n2. Con código de texto de 8 dígitos\n---> ')
+opcion = await question('[ ❗ ] Seleccione una opción:\n1. Con código QR\n2. Con código de texto de 8 dígitos\n---> ')
 //if (fs.existsSync(`./${authFile}/creds.json`)) {
 //console.log(chalk.bold.redBright(`PRIMERO BORRE EL ARCHIVO ${chalk.bold.greenBright("creds.json")} QUE SE ENCUENTRA EN LA CARPETA ${chalk.bold.greenBright(authFile)} Y REINICIE.`))
 //process.exit()
@@ -143,7 +143,7 @@ const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
 mobile: MethodMobile, 
-browser: opcion == '1' ? ['TheMystic-Bot-MD', 'Safari', '2.0.0'] : methodCodeQR ? ['TheMystic-Bot-MD', 'Safari', '2.0.0'] : ['Ubuntu', 'Chrome', '20.0.04'],
+browser: opcion == '1' ? ['𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', '𝑺𝒂𝒇𝒂𝒓𝒊', '2.0.0'] : methodCodeQR ? ['𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', '𝑺𝒂𝒇𝒂𝒓𝒊', '2.0.0'] : ['Ubuntu', 'Chrome', '20.0.04'],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -177,17 +177,17 @@ let numeroTelefono
 if (!!phoneNumber) {
 numeroTelefono = phoneNumber.replace(/[^0-9]/g, '')
 if (!Object.keys(PHONENUMBER_MCC).some(v => numeroTelefono.startsWith(v))) {
-console.log(chalk.bgBlack(chalk.bold.redBright("Comience con el código de país de su número de WhatsApp.\nEjemplo: +5219992095479\n")))
+console.log(chalk.bgBlack(chalk.bold.redBright("Comience con el código de país de su número de WhatsApp.\nEjemplo: +5214611461431\n")))
 process.exit(0)
 }} else {
 while (true) {
-numeroTelefono = await question(chalk.bgBlack(chalk.bold.yellowBright('Por favor, escriba su número de WhatsApp.\nEjemplo: +5219992095479\n')))
+numeroTelefono = await question(chalk.bgBlack(chalk.bold.yellowBright('Por favor, escriba su número de WhatsApp.\nEjemplo: +5214611461431\n')))
 numeroTelefono = numeroTelefono.replace(/[^0-9]/g, '')
 
 if (numeroTelefono.match(/^\d+$/) && Object.keys(PHONENUMBER_MCC).some(v => numeroTelefono.startsWith(v))) {
 break 
 } else {
-console.log(chalk.bgBlack(chalk.bold.redBright("Por favor, escriba su número de WhatsApp.\nEjemplo: +5219992095479.\n")))
+console.log(chalk.bgBlack(chalk.bold.redBright("Por favor, escriba su número de WhatsApp.\nEjemplo: +5214611461431.\n")))
 }}
 rl.close()  
 } 
@@ -416,14 +416,14 @@ global.reloadHandler = async function(restatConn) {
 
   // Para cambiar estos mensajes, solo los archivos en la carpeta de language, 
   // busque la clave "handler" dentro del json y cámbiela si es necesario
-  conn.welcome = '👋 ¡Bienvenido/a!\n@user';
-  conn.bye = '👋 ¡Hasta luego!\n@user';
-  conn.spromote = '*[ ℹ️ ] @user Fue promovido a administrador.*';
-  conn.sdemote = '*[ ℹ️ ] @user Fue degradado de administrador.*';
-  conn.sDesc = '*[ ℹ️ ] La descripción del grupo ha sido modificada.*';
-  conn.sSubject = '*[ ℹ️ ] El nombre del grupo ha sido modificado.*';
-  conn.sIcon = '*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*';
-  conn.sRevoke = '*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*';
+  conn.welcome = '@subject\n 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒙 @user \n\n 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒄𝒊𝒐𝒏:\n\n@desc\n\n 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+  conn.bye = '@user 𝑯𝒂𝒔𝒕𝒂 𝑵𝒖𝒏𝒄𝒂! \n𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+  conn.spromote = '*[ ❗ ] @user 𝑺𝒆 𝑺𝒖𝒎𝒂 𝑨𝒍 𝑮𝒓𝒖𝒑𝒐 𝑫𝒆 𝑨𝒅𝒎𝒊𝒏𝒔.*';
+  conn.sdemote = '*[ ❗ ] @user 𝑨𝒃𝒂𝒏𝒅𝒐𝒏𝒂 𝑬𝒍 𝑮𝒓𝒖𝒑𝒐 𝑫𝒆 𝑨𝒅𝒎𝒊𝒏𝒔.*';
+  conn.sDesc = '*[ ❗ ] 𝑺𝒆 𝑯𝒂 𝑴𝒐𝒅𝒊𝒇𝒊𝒄𝒂𝒅𝒐 𝑳𝒂 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒄𝒊𝒐𝒏 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐*\n\n*𝐍𝐮𝐞𝐯𝐚 𝐃𝐞𝐬𝐜: @desc.*';
+  conn.sSubject = '*[ ❗ ] 𝑺𝒆 𝑯𝒂 𝑴𝒐𝒅𝒊𝒇𝒊𝒄𝒂𝒅𝒐 𝑬𝒍 𝑵𝒐𝒎𝒃𝒓𝒆 𝑫𝒆𝒍 𝑮𝒓𝒖𝒑𝒐*\n*𝐍𝐮𝐞𝐯𝐨 𝐍𝐨𝐦𝐛𝐫𝐞: @subject.*';
+  conn.sIcon = '*[ ❗ ] 𝑺𝒆 𝑯𝒂 𝑴𝒐𝒅𝒊𝒇𝒊𝒄𝒂𝒅𝒐 𝑳𝒂 𝑰𝒎𝒂𝒈𝒆𝒏 𝑫𝒆 𝑮𝒓𝒖𝒑𝒐.*';
+  conn.sRevoke = '*[ ❗ ] 𝑬𝒍 𝑳𝒊𝒏𝒌 𝑫𝒆 𝑮𝒓𝒖𝒑𝒐 𝑯𝒂 𝑺𝒊𝒅𝒐 𝑹𝒆𝒔𝒕𝒂𝒃𝒍𝒆𝒄𝒊𝒅𝒐*\n*𝐍𝐮𝐞𝐯𝐨 𝐋𝐢𝐧𝐤: @revoke.*';
 
   conn.handler = handler.handler.bind(global.conn);
   conn.participantsUpdate = handler.participantsUpdate.bind(global.conn);
@@ -577,7 +577,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `[ ⏳ ] Uptime: ${uptime}`;
+  const bio = `𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒚 𝑺𝒉𝒂𝒅𝒐𝒘 𝑻𝒊𝒆𝒎𝒑𝒐 𝑨𝒄𝒕𝒊𝒗𝒐: ${uptime} 𝒊𝒈: @𝒔𝒉𝒂𝒅𝒐𝒘.𝒗𝒛`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
