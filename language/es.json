@@ -430,9 +430,9 @@
                 "┃➤ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
             ],
             "texto28": [
-                "𝑭𝒖𝒏𝒄𝒊𝒐𝒏𝒆𝒔 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ",
-                "[❗] 𝑳𝒂 𝑭𝒖𝒏𝒄𝒊𝒐𝒏 ",
-                "𝑬𝒙𝒊𝒕𝒐𝒔𝒂𝒎𝒆𝒏𝒕𝒆 𝑷𝒂𝒓𝒂 𝑬𝒔𝒕𝒆 "
+                "𝑭𝒖𝒏𝒄𝒊𝒐𝒏𝒆𝒔 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕",
+                "[❗] 𝑳𝒂 𝑭𝒖𝒏𝒄𝒊𝒐𝒏",
+                "𝑬𝒙𝒊𝒕𝒐𝒔𝒂𝒎𝒆𝒏𝒕𝒆 𝑷𝒂𝒓𝒂 𝑬𝒔𝒕𝒆"
             ]
         },
         "convertidor_toanime": {
@@ -495,102 +495,102 @@
         },
         "descargas_facebook": {
             "texto1": [
-                "< DESCARGAS - FACEBOOK />",
-                "[ ℹ️ ] Ingrese un enlace de Facebook.",
+                "DESCARGAS - FACEBOOK",
+                "[❗] Ingrese un enlace de Facebook.",
                 "[ 💡 ] Ejemplo:"
             ],
             "texto2": [
-                "< DESCARGAS - FACEBOOK />",
-                "[ ℹ️ ] Ingrese un enlace de Facebook.",
+                "DESCARGAS - FACEBOOK",
+                "[❗] Ingrese un enlace de Facebook.",
                 "[ 💡 ] Ejemplo:"
             ],
-            "texto3": "< DESCARGAS - FACEBOOK />*_\n\n*[ ℹ️ ] Se está enviando el video. espere...",
-            "texto4": "< DESCARGAS - FACEBOOK />",
-            "texto5": "< DESCARGAS - FACEBOOK />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde."
+            "texto3": "DESCARGAS - FACEBOOK*_\n\n*[❗] Se está enviando el video. espere...",
+            "texto4": "DESCARGAS - FACEBOOK",
+            "texto5": "DESCARGAS - FACEBOOK*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde."
         },
         "descargas_gdrive": {
-            "texto1": "_*< DESCARGAS - GDRIVE />*_\n\n*[ ℹ️ ] Ingrese un enlace de Google Drive.*\n\n*[ 💡 ] Ejemplo:* ",
-            "texto2": "_*< DESCARGAS - GDRIVE />*_\n\n*[ ℹ️ ] Se está enviando el archivo. espere...*\n\n*[ ℹ️ ] Si no se envía, podría ser porque supera el límite de tamaño.*",
-            "texto3": "_*< DESCARGAS - GDRIVE />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto1": "_*DESCARGAS - GDRIVE*_\n\n*[❗] Ingrese un enlace de Google Drive.*\n\n*[ 💡 ] Ejemplo:* ",
+            "texto2": "_*DESCARGAS - GDRIVE*_\n\n*[❗] Se está enviando el archivo. espere...*\n\n*[❗] Si no se envía, podría ser porque supera el límite de tamaño.*",
+            "texto3": "_*DESCARGAS - GDRIVE*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_gitclone": {
-            "texto1": "_*< DESCARGAS - GITCLONE />*_\n\n*[ ℹ️ ] Ingrese un enlace de GitHub.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*< DESCARGAS - GITCLONE />*_\n\n*[ ℹ️ ] El enlace que proporcionó es incorrecto.*",
-            "texto3": "_*< DESCARGAS - GITCLONE />*_\n\n*[ ℹ️ ] Se está enviando el archivo. espere...*\n\n*[ ℹ️ ] Si no se envía, podría ser porque supera el límite de tamaño.*"
+            "texto1": "_*DESCARGAS - GITCLONE*_\n\n*[❗] Ingrese un enlace de GitHub.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto2": "_*DESCARGAS - GITCLONE*_\n\n*[❗] El enlace que proporcionó es incorrecto.*",
+            "texto3": "_*DESCARGAS - GITCLONE*_\n\n*[❗] Se está enviando el archivo. espere...*\n\n*[❗] Si no se envía, podría ser porque supera el límite de tamaño.*"
         },
         "descargas_instagram": {
-            "texto1": "_*< DESCARGAS - INSTAGRAM />*_\n\n*[ ℹ️ ] Ingrese un enlace de Instagram.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*< DESCARGAS - INSTAGRAM />*_\n\n▢ *URL:*",
-            "texto3": "_*< DESCARGAS - INSTAGRAM />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto1": "_*DESCARGAS - INSTAGRAM*_\n\n*[❗] Ingrese un enlace de Instagram.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto2": "_*DESCARGAS - INSTAGRAM*_\n\n▢ *URL:*",
+            "texto3": "_*DESCARGAS - INSTAGRAM*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_mediafire": {
             "texto1": [
-                "_*< DESCARGAS - MEDIAFIRE />*_",
-                "▢ *Nombre:* ",
-                "▢ *Tamaño:* ",
-                "▢ *Extensión:*",
-                "*[ ℹ️ ] Se está enviando el archivo. espere...*"
+                "_*DESCARGAS - MEDIAFIRE*_",
+                " *Nombre:* ",
+                " *Tamaño:* ",
+                " *Extensión:*",
+                "*[❗] Se está enviando el archivo. espere...*"
             ],
             "texto2": [
-                "*< DESCARGAS - MEDIAFIRE />*",
-                "▢ *Nombre:*",
-                "▢ *Tamaño:*",
-                "▢ *Extensión:*",
-                "*[ ℹ️ ] Se está enviando el archivo. espere...*"
+                "*DESCARGAS - MEDIAFIRE*",
+                " *Nombre:*",
+                " *Tamaño:*",
+                " *Extensión:*",
+                "*[❗] Se está enviando el archivo. espere...*"
             ],
-            "texto3": "_*< DESCARGAS - MEDIAFIRE />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto4": "_*< DESCARGAS - MEDIAFIRE />*_\n\n*[ ℹ️ ] Ingrese un enlace de MediaFire.*\n\n*[ 💡 ] Ejemplo:*"
+            "texto3": "_*DESCARGAS - MEDIAFIRE*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto4": "_*DESCARGAS - MEDIAFIRE*_\n\n*[❗] Ingrese un enlace de MediaFire.*\n\n*[ 💡 ] Ejemplo:*"
         },
         "descargas_play_v2": {
             "texto1": [
-                "_*< DESCARGAS - PLAY v2 />*_\n\n*[ ℹ️ ] Hace falta el título del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
+                "_*DESCARGAS - PLAY v2*_\n\n*[❗] Hace falta el título del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
                 "Good Feeling - Flo Rida_\n\n*[ 💡 ] Ejemplo 2:*"
             ],
-            "texto2": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto3": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto2": "_*DESCARGAS - PLAY V2*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto3": "_*DESCARGAS - PLAY V2*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
             "texto4": [
-                "_*< DESCARGAS - PLAY V2 />*_\n\n▢ *Título:* ",
-                "▢ *Publicado:*",
-                "▢ *Canal:*",
-                "▢ *Vídeo URL:*"
+                "_*DESCARGAS - PLAY V2*_\n\n▢ *Título:* ",
+                " *Publicado:*",
+                " *Canal:*",
+                " *Vídeo URL:*"
             ],
-            "texto5": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto6": "_*< DESCARGAS - PLAY V2 />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto5": "_*DESCARGAS - PLAY V2*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto6": "_*DESCARGAS - PLAY V2*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_play": {
             "texto1": [
-                "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Hace falta el título o enlace del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
+                "_*DESCARGAS - PLAY*_\n\n*[❗] Hace falta el título o enlace del video de YouTube.*\n\n*[ 💡 ] Ejemplo:*",
                 "Good Feeling - Flo Rida_"
             ],
             "texto2": [
-                "_*< DESCARGAS - PLAY />*_\n\n▢ *Título:*",
-                "▢ *Publicado:*",
-                "▢ *Duración:*",
-                "▢ *Vistas:*",
-                "▢ *Autor:*",
-                "▢ *ID:*",
-                "▢ *Tipo:*",
-                "▢ *Enlace:*",
-                "▢ *Canal:*",
-                "*[ ℹ️ ] Se está enviando el",
+                "_*DESCARGAS - PLAY*_\n\n▢ *Título:*",
+                " *Publicado:*",
+                " *Duración:*",
+                " *Vistas:*",
+                " *Autor:*",
+                " *ID:*",
+                " *Tipo:*",
+                " *Enlace:*",
+                " *Canal:*",
+                "*[❗] Se está enviando el",
                 "espere...*"
             ],
-            "texto3": "*[ ℹ️ ] Descargue su audio en:*",
-            "texto4": "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto5": "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Descargue su vídeo en:*",
-            "texto6": "_*< DESCARGAS - PLAY />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto3": "*[❗] Descargue su audio en:*",
+            "texto4": "_*DESCARGAS - PLAY*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto5": "_*DESCARGAS - PLAY*_\n\n*[❗] Descargue su vídeo en:*",
+            "texto6": "_*DESCARGAS - PLAY*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_spotify": {
-            "texto1": "_*< DESCARGAS - SPOTIFY />*_\n\n*[ ℹ️ ] Hace falta el título de la canción de Spotify.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto1": "_*DESCARGAS - SPOTIFY*_\n\n*[❗] Hace falta el título de la canción de Spotify.*\n\n*[ 💡 ] Ejemplo:*",
             "texto2": [
-                "*< DESCARGAS - SPOTIFY />*",
-                "▢ *Título:*",
-                "▢ *Artista:*",
-                "▢ *Álbum:*",
-                "▢ *Publicado:*",
-                "*[ ℹ️ ] Se está enviando el audio. espere...*"
+                "*DESCARGAS - SPOTIFY*",
+                " *Título:*",
+                " *Artista:*",
+                " *Álbum:*",
+                " *Publicado:*",
+                "*[❗] Se está enviando el audio. espere...*"
             ],
-            "texto3": "_*< DESCARGAS - SPOTIFY />*_\n\n[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto3": "_*DESCARGAS - SPOTIFY*_\n\n[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "descargas_spotifypro": {
             "texto1": "*[❗] Ingrese el link de algún track, playlist o álbum de Spotify o simplemente el nombre de una canción para buscar.*",
@@ -630,31 +630,31 @@
             "texto7": "*[❗] Error, no se encontraron resultados.*"
         },
         "descargas_tiktok": {
-            "texto1": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto2": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
-            "texto3": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Se está enviando el video. espere...*",
+            "texto1": "_*DESCARGAS - TIKTOK*_\n\n*[❗] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto2": "_*DESCARGAS - TIKTOK*_\n\n*[❗] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*",
+            "texto3": "_*DESCARGAS - TIKTOK*_\n\n*[❗] Se está enviando el video. espere...*",
             "texto4": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*DESCARGAS - TIKTOK*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto5": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*DESCARGAS - TIKTOK*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto6": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*DESCARGAS - TIKTOK*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto7": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*DESCARGAS - TIKTOK*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
             "texto8": [
-                "_*< DESCARGAS - TIKTOK />*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
+                "_*DESCARGAS - TIKTOK*_\n\n*[ 💡 ] Responde a este vídeo con el comando*",
                 "*para convertirlo en audio.*"
             ],
-            "texto9": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
-            "texto10": "_*< DESCARGAS - TIKTOK />*_\n\n*[ ℹ️ ] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*"
+            "texto9": "_*DESCARGAS - TIKTOK*_\n\n*[❗] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*",
+            "texto10": "_*DESCARGAS - TIKTOK*_\n\n*[❗] Ingrese un enlace de TikTok.*\n\n*[ 💡 ] Ejemplo:*"
         },
         "downloader_igstory": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼*\n\n*𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*",
@@ -687,22 +687,22 @@
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝙻𝙰 𝙲𝙰𝙽𝙲𝙸𝙾𝙽 𝙵𝙰𝙻𝚃𝙰𝙽𝚃𝙴, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴/𝚃𝙸𝚃𝚄𝙻𝙾 𝙳𝙴 𝚄𝙽𝙰 𝙲𝙰𝙽𝙲𝙸𝙾𝙽*\n\n*—◉ 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*",
             "texto2": [
                 "*◉——⌈🔊 YOUTUBE DOC 🔊⌋——◉*",
-                "❏ 📌 *Titulo:*",
-                "❏ 📆 *Publicado:*",
-                "❏ ⌚ *Duracion:*",
-                "❏ 👀 *Vistas:*",
-                "❏ 👤 *Autor:*",
-                "❏ ⏯️ *Canal:*",
-                "❏ 🆔 *ID:*",
-                "❏ 🪬 *Tipo:*",
-                "❏ 🔗 *Link:*",
-                "❏ *_Enviando",
+                " 📌 *Titulo:*",
+                " 📆 *Publicado:*",
+                " ⌚ *Duracion:*",
+                " 👀 *Vistas:*",
+                " 👤 *Autor:*",
+                " ⏯️ *Canal:*",
+                " 🆔 *ID:*",
+                " 🪬 *Tipo:*",
+                " 🔗 *Link:*",
+                "  *_Enviando",
                 "aguarde un momento．．．_*"
             ],
             "texto3": "*[❗] 𝙴𝚁𝚁𝙾𝚁 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝙰𝚄𝙳𝙸𝙾*",
             "texto4": [
-                "▢ 𝚃𝙸𝚃𝚄𝙻𝙾:",
-                "▢ 𝙿𝙴𝚂𝙾 𝙳𝙴𝙻 𝚅𝙸𝙳𝙴𝙾:"
+                "𝚃𝙸𝚃𝚄𝙻𝙾:",
+                "𝙿𝙴𝚂𝙾 𝙳𝙴𝙻 𝚅𝙸𝙳𝙴𝙾:"
             ],
             "texto5": "*[❗] 𝙴𝚁𝚁𝙾𝚁 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝚅𝙸𝙳𝙴𝙾*",
             "texto6": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Descarga por 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕  🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
